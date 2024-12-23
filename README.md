@@ -6,12 +6,13 @@ Este repositorio contiene el desarrollo de la prueba técnica, enfocada en prede
 
 ```
 |-- Analisis_Principal.ipynb   # Notebook principal del análisis de datos               
-|-- caso_prueba_ciencia_datos.pdf # Descripción completa del caso de estudio
+|-- caso_prueba_ciencia_datos.pdf  # Descripción completa del caso de estudio
+|
 Chatbot/
-|-- Prompts de prueba.txt          # Archivo de pruebas para el chatbot
-|-- chatbot.py                     # Código principal del chatbot
-|-- config.py                      # Archivo con la API KEY de openai
-|-- graficas.py                    # Clase con los métodos para generar las gráficas
+    |-- Prompts de prueba.txt          # Archivo de pruebas para el chatbot
+    |-- chatbot.py                     # Código principal del chatbot
+    |-- config.py                      # Archivo con la API KEY de openai
+    |-- graficas.py                    # Clase con los métodos para generar las gráficas
 |
 data/
     |-- TestDataAccomodation.csv  
