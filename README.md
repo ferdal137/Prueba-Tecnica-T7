@@ -5,19 +5,18 @@ Este repositorio contiene el desarrollo de la prueba técnica, enfocada en prede
 ## Estructura del Repositorio
 
 ```
+|-- Analisis_Principal.ipynb   # Notebook principal del análisis de datos               
+|-- caso_prueba_ciencia_datos.pdf # Descripción completa del caso de estudio
 Chatbot/
 |-- Prompts de prueba.txt          # Archivo de pruebas para el chatbot
 |-- chatbot.py                     # Código principal del chatbot
 |-- config.py                      # Archivo con la API KEY de openai
 |-- graficas.py                    # Clase con los métodos para generar las gráficas
 |
-|-- data/
+data/
     |-- TestDataAccomodation.csv  
     |-- train_data.csv             # Datos de entrenamiento en formato CSV
     |-- train_data.txt             # Datos de entrenamiento original en formato TXT
-    |-- Analisis_Principal.ipynb   # Notebook principal del análisis de datos
-    |-- README.md                  
-    |-- caso_prueba_ciencia_datos.pdf # Descripción completa del caso de estudio
 ```
 
 ## Descripción de la Tarea
